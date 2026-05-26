@@ -1,6 +1,6 @@
 # JogoDaForca3B
 Jogo da Forca - Python
-Jogo educativo desenvolvido em Python para fins didáticos na disciplina de Programação.
+Jogo educativo desenvolvido em Python para fins didáticos na disciplina de Programação no Desenvolvimento de Sistemas.
 
 Como executar:
 Certifique-se de ter o Python 3 instalado.
